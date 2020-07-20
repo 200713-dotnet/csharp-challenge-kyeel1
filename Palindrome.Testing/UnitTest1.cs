@@ -1,6 +1,6 @@
 using System;
 using Xunit;
-
+using Palindrome.Domain;
 namespace Palindrome.Testing
 {
     public class UnitTest1
@@ -14,8 +14,9 @@ namespace Palindrome.Testing
             var PC = new PalindromeChecker();
 
             var check = PC.Check(palindrome,index,lastIndex);
+            Assert.True(check);
+            
 
-            Assert.isTrue(check);
         }
         [Fact]
         public void TestFailure()
@@ -27,7 +28,7 @@ namespace Palindrome.Testing
 
             var check = PC.Check(palindrome,index,lastIndex);
 
-            Assert.isTrue(check);
+            Assert.False(check);
         }
         [Fact]
         public void TestEven()
@@ -39,7 +40,7 @@ namespace Palindrome.Testing
 
             var check = PC.Check(palindrome,index,lastIndex);
 
-            Assert.isTrue(check);
+            Assert.True(check);
         }
         [Fact]
         public void TestSymbol()
@@ -51,7 +52,7 @@ namespace Palindrome.Testing
 
             var check = PC.Check(palindrome,index,lastIndex);
 
-            Assert.isTrue(check);
+            Assert.True(check);
         }
         [Fact]
         public void TestNumber()
@@ -63,7 +64,7 @@ namespace Palindrome.Testing
 
             var check = PC.Check(palindrome,index,lastIndex);
 
-            Assert.isTrue(check);
+            Assert.True(check);
         }
     }
 }
