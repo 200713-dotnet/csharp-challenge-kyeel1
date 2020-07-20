@@ -23,7 +23,7 @@ namespace Palindrome.Testing
         {
             var palindrome = "tacoeecat";
             var index = 0;
-            var lastIndex = palindrome.Length;
+            var lastIndex = palindrome.Length-1;
             var PC = new PalindromeChecker();
 
             var check = PC.Check(palindrome,index,lastIndex);
@@ -35,7 +35,7 @@ namespace Palindrome.Testing
         {
             var palindrome = "anna";
             var index = 0;
-            var lastIndex = palindrome.Length;
+            var lastIndex = palindrome.Length-1;
             var PC = new PalindromeChecker();
 
             var check = PC.Check(palindrome,index,lastIndex);
@@ -47,7 +47,7 @@ namespace Palindrome.Testing
         {
             var palindrome = "^anna^";
             var index = 0;
-            var lastIndex = palindrome.Length;
+            var lastIndex = palindrome.Length-1;
             var PC = new PalindromeChecker();
 
             var check = PC.Check(palindrome,index,lastIndex);
@@ -59,7 +59,7 @@ namespace Palindrome.Testing
         {
             var palindrome = "1331";
             var index = 0;
-            var lastIndex = palindrome.Length;
+            var lastIndex = palindrome.Length-1;
             var PC = new PalindromeChecker();
 
             var check = PC.Check(palindrome,index,lastIndex);
