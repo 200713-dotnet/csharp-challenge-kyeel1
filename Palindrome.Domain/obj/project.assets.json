@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/home/fred/.nuget/packages/": {}
+    "/home/henry/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
+      "projectUniqueName": "/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/Palindrome.Domain.csproj",
       "projectName": "Palindrome.Domain",
-      "projectPath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
-      "packagesPath": "/home/fred/.nuget/packages/",
-      "outputPath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/obj/",
+      "projectPath": "/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/Palindrome.Domain.csproj",
+      "packagesPath": "/home/henry/.nuget/packages/",
+      "outputPath": "/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/fred/.nuget/NuGet/NuGet.Config"
+        "/home/henry/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

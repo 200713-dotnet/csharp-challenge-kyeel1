@@ -2,8 +2,9 @@
 
 namespace Palindrome.Domain
 {
-    public class PalindroneChecker
+    public class PalindromeChecker
     {
+        public PalindromeChecker(){}
         public int Middle(string x){
             int result;
             if (x.Length%2 == 0){
@@ -36,14 +37,16 @@ namespace Palindrome.Domain
                     return true;
                 }
             }
-
+            else{
             if(x[index] == x[lastIndex]){
                 Check(x,index+=1,lastIndex+=1);
+                return true;
             }
             else
             {
                 return false;
             }
+        }
         }
     }
 }
