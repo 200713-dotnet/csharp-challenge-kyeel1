@@ -1,0 +1,9 @@
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csproj.CoreCompileInputs.cache
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/henry/Documents/Revature/Week_1/csharp-challenge-kyeel1/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb
